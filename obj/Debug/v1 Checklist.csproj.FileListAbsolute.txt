@@ -1,0 +1,14 @@
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\bin\Debug\v1 Checklist.exe.config
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\bin\Debug\v1 Checklist.exe
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\bin\Debug\v1 Checklist.pdb
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1_Checklist.Form1.resources
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1_Checklist.Properties.Resources.resources
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.exe
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.pdb
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\bin\Debug\v1 Checklist.exe.manifest
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\bin\Debug\v1 Checklist.application
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.exe.manifest
+C:\Users\gusta\Documents\GitHub\real-life-checklist\v1 Checklist\obj\Debug\v1 Checklist.application
